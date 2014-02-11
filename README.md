@@ -13,6 +13,10 @@ Dead Simple Grid is a responsive CSS grid micro framework/concept by [Vladimir A
 
 **[View Demo](http://mourner.github.com/dead-simple-grid)** &nbsp;|&nbsp; [Download](https://github.com/mourner/dead-simple-grid/zipball/gh-pages)
 
+### Demo
+
+[Demonstration](http://git.macropus.org/dead-simple-grid/demo/)
+
 ### Basic Example
 
 ```html
