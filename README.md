@@ -41,7 +41,7 @@ Fixed gutter widths for columns are set as padding combined with `box-sizing: bo
 
 #### Column Setup
 
-All `col` elements are places inside clearfixed `row` elements and have `float: left; width: 100%` set by default. This means that you only need to change `width` to set up columns &mdash; no other properties required.
+You only need to change `width` to set up columns &mdash; no other properties required.
 
 Need to turn 3 one-column elements into 3 columns? Set their width to `33.33%` and you're all set. Need to switch a 2-column block back to one-column mode? Set their width to `100%`. Forget about messing with classes or SASS/Less mixins and formulas.
 
