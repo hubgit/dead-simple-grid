@@ -15,8 +15,8 @@
 @media only screen {
 	.row {
 		display: flex;
-		flex-direction: row;
 		flex-wrap: wrap;
+		flex: 1;
 	}
 	
 	.col {
